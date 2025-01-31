@@ -1,5 +1,4 @@
 const express = require('express');
-const { MdViewModule } = require('react-icons/md');
 const {
   addTransaction,
   getAllTransactions,
